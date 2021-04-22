@@ -18,7 +18,7 @@
         <swagger-version>2.9.2</swagger-version>
         <mybatisplus-version>3.0.5</mybatisplus-version>
         <druid-version>1.1.10</druid-version>
-        <shrio-version>1.4.1</shrio-version>
+        <shrio-version>1.7.0</shrio-version>
         <shrio-thymleaf-version>2.0.0</shrio-thymleaf-version>
         <velocity-version>2.0</velocity-version>
         <pinyin-version>2.5.1</pinyin-version>
